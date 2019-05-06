@@ -9,7 +9,7 @@ describe("Protractor Demo App", function() {
     })
 
     element(by.id("gobutton")).click();
-    //css"tagnname[attribue='value']"
+    //css"tagnname[attribue='value']"123--git commit
    element(by.css("h2[class='ng-binding']")).getText().then(function(text){
     	console.log(text);
     })
