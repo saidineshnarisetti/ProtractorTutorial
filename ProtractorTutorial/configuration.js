@@ -1,6 +1,6 @@
 exports.config = {
 //  seleniumAddress: 'http://localhost:4444/wd/hub',
-  specs: ['ElementsBasics.js']
+  specs: ['Chainlocators.js']
 //  multiCapabilities: [{
 //	  'browserName': 'firefox'
 //  }, {
